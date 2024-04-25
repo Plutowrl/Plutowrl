@@ -13,10 +13,10 @@ My journey in computer science has ignited a fervent interest in cybersecurity. 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| System Administration                         | SOC Automation Lab|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| System Administration                         | <a href="https://github.com/Plutowrl/Active-Directory-HomeLab">Active Directory Project</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Plutowrl/Active-Directory-HomeLab">Active Directory Project</a>|
+| Security Automation with Shuffle SOAR         | 
+| Network Traffic Monitoring and Attack Detection | 
 
 
 ## Tools
@@ -46,11 +46,15 @@ My journey in computer science has ignited a fervent interest in cybersecurity. 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Emulation
+<div>
+    <img src="https://img.shields.io/badge/-Atomic_Red_Team-000000?&style=for-the-badge&logo=Atomic-Red-Team&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
-- Active Directory Homelab
-- SOC Automation Project
+- <a href="https://github.com/Plutowrl/Active-Directory-HomeLab">Active Directory Project</a>
