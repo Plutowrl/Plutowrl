@@ -1,6 +1,6 @@
 
 # Hello, I'm Daniel
-<a href="www.linkedin.com/in/daniel-anerobi-3555ab162"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/daniel-anerobi-3555ab162"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a recent computer science graduate with a profound interest in IT and a dedication to solving complex problems.
